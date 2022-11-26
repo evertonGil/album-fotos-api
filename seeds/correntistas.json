@@ -1,0 +1,173 @@
+[
+    {
+        "cpf": "1__.___.___-__",
+        "nome": "Everton Gil",
+        "agencia": "466",
+        "email": "egmsantos2@yahoo.com.br",
+        "contaCorrente": "101063585",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5200,
+        "transacaoPendente": [],
+        "updated_at": "",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "123.456.789-10",
+        "nome": "Renan Pinto",
+        "agencia": "466",
+        "email": "egmsantos2@yahoo.com.br",
+        "contaCorrente": "101063586",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5000,
+        "transacaoPendente": [],
+        "updated_at": "",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "987.654.321-00",
+        "nome": "Rafael Brussolo",
+        "agencia": "466",
+        "contaCorrente": "101063587",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 2200,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "012.345.678-01",
+        "nome": "Felipe Belinassi",
+        "agencia": "466",
+        "email": "felipebelinassi@yahoo.com",
+        "contaCorrente": "101063588",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 3000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "123.456.789-00",
+        "nome": "Leticia Corral",
+        "agencia": "466",
+        "email": "le.martincorral@gmail.com",
+        "contaCorrente": "101063589",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 123,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "234.567.890-00",
+        "nome": "Leo",
+        "agencia": "466",
+        "contaCorrente": "101063590",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 10670,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "345.678.900-00",
+        "nome": "Rafa",
+        "agencia": "466",
+        "email": "fabianogma@gmail.com",
+        "contaCorrente": "101063591",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 2000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "456.789.000-00",
+        "nome": "joaquim",
+        "agencia": "466",
+        "contaCorrente": "101063592",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "567.890.123-00",
+        "nome": "barbosa",
+        "agencia": "466",
+        "contaCorrente": "101063593",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "678.901.234-00",
+        "nome": "João",
+        "agencia": "466",
+        "email": "anderfilth@hotmail.com",
+        "contaCorrente": "101063594",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "789.012.345-00",
+        "nome": "Saulo",
+        "agencia": "466",
+        "contaCorrente": "101063595",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "890.123.456-00",
+        "nome": "Nivia",
+        "agencia": "466",
+        "contaCorrente": "101063596",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "901.234.567-00",
+        "nome": "Pedro",
+        "agencia": "466",
+        "contaCorrente": "101063597",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "012.345.678-00",
+        "nome": "Nunes",
+        "agencia": "466",
+        "contaCorrente": "101063598",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    },
+    {
+        "cpf": "123.456.789-99",
+        "nome": "Alberto",
+        "agencia": "466",
+        "contaCorrente": "101063599",
+        "senha": "A6xnQhbz4Vx2HuGl4lXwZ5U2I8iziLRFnhP5eNfIRvQ=",
+        "saldo": 5000,
+        "transacaoPendente": [],
+        "updated_at": "2018-01-20T20:02:10.604Z",
+        "created_at": "2018-01-20T20:02:10.604Z"
+    }
+]

@@ -1,0 +1,46 @@
+{
+  "name": "album-fotos-api",
+  "version": "1.0.0",
+  "description": "API de album de fotos",
+  "main": "index.js",
+  "engines": {
+    "node": "8.9.3"
+  },
+  "scripts": {
+    "debug": " concurrently \"nodemon app\"",
+    "start": "node app",
+    "test": "node node_modules/mocha/bin/mocha",
+    "build": " concurrently  \" set NODE_ENV = teste\" \"nodemon app\"",
+    "watch": "babel public/js/app-es6 -d public/js/app --source-maps --watch"
+  },
+  "author": "Everton",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-validator": "^4.3.0",
+    "image-size": "^0.6.3",
+    "jsonwebtoken": "^5.7.0",
+    "moment": "^2.22.2",
+    "mongoose": "^4.13.14",
+    "morgan": "^1.9.1",
+    "multer": "^1.3.1",
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.18.7",
+    "npm-check-updates": "^2.15.0",
+    "sharp": "^0.20.5",
+    "swagger-editor": "^3.6.16",
+    "winston": "^2.4.3",
+    "wkhtmltopdf": "^0.3.4",
+    "wkhtmltox": "^1.1.4"
+  },
+  "devDependencies": {
+    "concurrently": "^3.6.1",
+    "mocha": "^3.5.1",
+    "mongo-seed": "^0.6.0"
+  }
+}

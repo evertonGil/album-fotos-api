@@ -1,0 +1,49 @@
+[
+  {
+    "entidade": "usuarios",
+    "usuarios": [
+      {
+        "id": 1,
+        "nome": "Everton",
+        "Albums": [
+          {
+            "id": 1,
+            "nome": "Mariana_meu_amor",
+            "nomeExibicao": "mariana meu amor",
+            "tipoAlbum": "amor",
+            "tipoAlbumParRef": 1,
+            "slots": [
+              {
+                "id": "_1",
+                "imagemParRef": 1,
+                "position": {
+                  "x": 947,
+                  "y": 1443
+                },
+                "largura": 108,
+                "altura": 148
+              }
+            ]
+          }
+        ],
+        "imagensPreview": [
+          {
+            "imagemParRef": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entidade": "imagens",
+    "imagens": [
+      {
+        "uasuarioParRef": 1,
+        "id": 1,
+        "preview": "/local",
+        "vWeb": "/local",
+        "vImpressao": "/local"
+      }
+    ]
+  }
+]
